@@ -59,3 +59,5 @@ pip install pandas numpy scikit-learn matplotlib seaborn catboost xgboost
 - catboost
 - xgboost
 
+📜 License
+This project is licensed under the MIT License © 2025 Mayank Chauhan.
